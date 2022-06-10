@@ -6,17 +6,38 @@ I do things because why not
 
 [resume-github](https://resume.github.io/?Saverio976)
 
-if you want to check the epitech coding style:
-[normatrix](https://github.com/Saverio976/NorMatrix)
+- check the epitech **C coding style**:
+[normatrix repo](https://github.com/Saverio976/NorMatrix)
 
-if you want to see nice annimation using pixels:
-[screensaver](https://github.com/Saverio976/ScreenSaver)
+![chat-robot.png](https://github.com/Saverio976/bobot-inette/blob/main/chat-robot.png)
 
-if you want to play to the best RPG ever made:
-[rpg](https://github.com/X-R-G-B/FlashBackToTheFuture)
 
-if you want vim/neovim configguration, check this:
-[config](https://github.com/Saverio976/config)
+- nice **annimation** using **pixels**:
+[screensaver repo](https://github.com/Saverio976/ScreenSaver)
 
-if you want to chat with some people in terminal:
-[chat-app](https://github.com/Saverio976/Chat-App-TUI)
+![bubulle.png](https://github.com/Saverio976/ScreenSaver/blob/main/assets/screens/screen_5.png)
+
+
+- **play** to the best **RPG** ever made:
+[rpg repo](https://github.com/X-R-G-B/FlashBackToTheFuture)
+[rpg site](https://x-r-g-b.github.io/html/creation_popup/fbttf.html)
+
+![fbttf.png](https://x-r-g-b.github.io/assets/img/creation/fbttf.png)
+
+
+- **vim/neovim configuration**, check this:
+[config repo](https://github.com/Saverio976/config)**
+
+![neovim.png](https://github.com/Saverio976/config/blob/main/assets/open_one_file.png)
+
+
+- **chat with** some **people** in **terminal**:
+[chat-app repo](https://github.com/Saverio976/Chat-App-TUI)
+
+![chat-app.png](https://github.com/Saverio976/Chat-App-TUI/blob/main/assets/image/chat_app_tui.png)
+
+
+- **launch** program **by voice**:
+[bobot-inette repo](https://github.com/Saverio976/bobot-inette)
+
+![chat-robot.png](https://github.com/Saverio976/bobot-inette/blob/main/chat-robot.png)
