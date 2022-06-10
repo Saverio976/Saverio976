@@ -9,7 +9,7 @@ I do things because why not
 - check the epitech **C coding style**:
 [normatrix repo](https://github.com/Saverio976/NorMatrix)
 
-![chat-robot.png](https://github.com/Saverio976/bobot-inette/blob/main/chat-robot.png)
+![normatrix-example.png.png](https://raw.githubusercontent.com/Saverio976/NorMatrix/main/assets/example_normatrix.png)
 
 
 - nice **annimation** using **pixels**:
