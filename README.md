@@ -4,12 +4,18 @@ I do things because why not
 
 ![github-stats](https://github-readme-stats.vercel.app/api/?username=Saverio976&count_private=true&theme=tokyonight&showicons=true)
 
-[resume-github](https://resume.github.io/?Saverio976)
+[resume generate by https://resume.github.io](https://resume.github.io/?Saverio976)
 
 - check the epitech **C coding style**:
 [normatrix repo](https://github.com/Saverio976/NorMatrix)
 
 ![normatrix-example.png.png](https://raw.githubusercontent.com/Saverio976/NorMatrix/main/assets/example_normatrix.png)
+
+
+- **music/video** in **neovim**:
+[music_nvim repo](https://github.com/Saverio976/music.nvim)
+
+![music_nvim](https://github.com/Saverio976/music.nvim/blob/main/assets/youtube_playlist_playing.png)
 
 
 - nice **annimation** using **pixels**:
@@ -26,7 +32,7 @@ I do things because why not
 
 
 - **vim/neovim configuration**, check this:
-[config repo](https://github.com/Saverio976/config)**
+[config repo](https://github.com/Saverio976/config)
 
 ![neovim.png](https://github.com/Saverio976/config/blob/main/assets/open_one_file.png)
 
