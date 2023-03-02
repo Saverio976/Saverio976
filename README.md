@@ -7,6 +7,8 @@ I do things because why not
 [resume generate by https://resume.github.io](https://resume.github.io/?Saverio976)
 
 - check the epitech **C coding style**:
+
+[![My Skills](https://skillicons.dev/icons?i=python,regex)](https://skillicons.dev)
   1. [normatrix repo](https://github.com/Saverio976/NorMatrix)
     - my first attempt in 1year at epitech
   2. [norma2 repo](https://github.com/X-R-G-B/norma2)
@@ -14,26 +16,38 @@ I do things because why not
 
 
 - **music/video** in **neovim**:
+
+[![My Skills](https://skillicons.dev/icons?i=lua,neovim)](https://skillicons.dev)
   - [music_nvim repo](https://github.com/Saverio976/music.nvim)
   - parser around `mpv` that called it in a nested terminal
 
 
 - **annimation** using **pixels**:
+
+[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
   - [screensaver repo](https://github.com/Saverio976/ScreenSaver)
 
 
 - the best **RPG** ever made:
+
+[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
   - [rpg repo](https://github.com/X-R-G-B/FlashBackToTheFuture)
   - [rpg site](https://x-r-g-b.github.io/html/creation_popup/fbttf.html)
 
 
 - personal **dotfiles**:
+
+[![My Skills](https://skillicons.dev/icons?i=bash,neovim,vim,linux)](https://skillicons.dev)
   - [github repo](https://github.com/Saverio976/dotfiles)
 
 
 - **chat** with **people** in **terminal**:
+
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
   - [chat-app repo](https://github.com/Saverio976/Chat-App-TUI)
 
 
 - **launch** program **by voice**:
+
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
   - [bobot-inette repo](https://github.com/Saverio976/bobot-inette)
