@@ -7,43 +7,33 @@ I do things because why not
 [resume generate by https://resume.github.io](https://resume.github.io/?Saverio976)
 
 - check the epitech **C coding style**:
-[normatrix repo](https://github.com/Saverio976/NorMatrix)
-
-![normatrix-example.png.png](https://raw.githubusercontent.com/Saverio976/NorMatrix/main/assets/example_normatrix.png)
+1. [normatrix repo](https://github.com/Saverio976/NorMatrix)
+my first attempt in 1year at epitech
+2. [norma2 repo](https://github.com/X-R-G-B/norma2)
+second attempt (parsing is done but contains some bug)
 
 
 - **music/video** in **neovim**:
 [music_nvim repo](https://github.com/Saverio976/music.nvim)
+parser around `mpv` that called it in a nested terminal
 
-![music_nvim](https://github.com/Saverio976/music.nvim/blob/main/assets/youtube_playlist_playing.png)
 
-
-- nice **annimation** using **pixels**:
+- **annimation** using **pixels**:
 [screensaver repo](https://github.com/Saverio976/ScreenSaver)
 
-![bubulle.png](https://github.com/Saverio976/ScreenSaver/blob/main/assets/screens/screen_5.png)
 
-
-- **play** to the best **RPG** ever made:
+- the best **RPG** ever made:
 [rpg repo](https://github.com/X-R-G-B/FlashBackToTheFuture)
 [rpg site](https://x-r-g-b.github.io/html/creation_popup/fbttf.html)
 
-![fbttf.png](https://x-r-g-b.github.io/assets/img/creation/fbttf.png)
+
+- personal **dotfiles**:
+[github repo](https://github.com/Saverio976/dotfiles)
 
 
-- **vim/neovim configuration**, check this:
-[config repo](https://github.com/Saverio976/config)
-
-![neovim.png](https://github.com/Saverio976/config/blob/main/assets/open_one_file.png)
-
-
-- **chat with** some **people** in **terminal**:
+- **chat** with **people** in **terminal**:
 [chat-app repo](https://github.com/Saverio976/Chat-App-TUI)
-
-![chat-app.png](https://github.com/Saverio976/Chat-App-TUI/blob/main/assets/image/chat_app_tui.png)
 
 
 - **launch** program **by voice**:
 [bobot-inette repo](https://github.com/Saverio976/bobot-inette)
-
-![chat-robot.png](https://github.com/Saverio976/bobot-inette/blob/main/chat-robot.png)
