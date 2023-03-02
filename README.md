@@ -6,6 +6,7 @@ I do things because why not
 
 [resume generate by https://resume.github.io](https://resume.github.io/?Saverio976)
 
+------------------------------------------------------------------------------------
 
 [![My Skills](https://skillicons.dev/icons?i=python,regex)](https://skillicons.dev)
 - check the epitech **C coding style**:
