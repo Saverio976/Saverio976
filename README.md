@@ -8,6 +8,9 @@ I do things because why not
 
 ------------------------------------------------------------------------------------
 
+------------------------------------------------------------------------------------
+### some projects
+
 [![My Skills](https://skillicons.dev/icons?i=python,regex)](https://skillicons.dev)
 - check the epitech **C coding style**:
   1. [normatrix repo](https://github.com/Saverio976/NorMatrix)
