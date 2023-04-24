@@ -24,6 +24,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saverio976&&count_private=true&theme=tokyonight&layout=compact&langs_count=6" />
 </p>
 
+<p align='center'>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=Saverio976">
+  </a>
+</p>
+
 ------------------------------------------------------------------------------------
 ## some projects
 
