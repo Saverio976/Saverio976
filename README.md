@@ -14,7 +14,7 @@
       <img src="https://img.shields.io/badge/Epitech-1a2b6d?style=for-the-badge&logo=/e/&logoColor=white">
   </a>
   <a href="https://github.com/PoCInnovation">
-      <img src="https://img.shields.io/badge/PoC Innovation-36454F?style=for-the-badge&logo=github&logoColor=white">
+      <img src="https://img.shields.io/badge/PoC%20Innovation-36454F?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
