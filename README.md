@@ -24,6 +24,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saverio976&&count_private=true&theme=tokyonight&layout=compact&langs_count=6" />
 </p>
 
+<p align='center'>
+  <img src="">
+</p>
+
 ------------------------------------------------------------------------------------
 ## some projects
 
