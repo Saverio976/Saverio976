@@ -29,7 +29,11 @@
 </p>
 
 ------------------------------------------------------------------------------------
-## some projects
+<h2 align='center'>
+  some projects
+</h2>
+
+<div align="center">
 
 | Techno | Link | Description |
 |:---:|:---:|:---:|
@@ -41,5 +45,7 @@
 | python                    | [repo](https://github.com/Saverio976/Chat-App-TUI)                                                                            | **chat** with **people** in **terminal** |
 | python, pytorch           | [repo](https://github.com/Saverio976/bobot-inette)                                                                            | **launch** program **by voice** |
 | c                         | [repo](https://github.com/X-R-G-B/FlashBackToTheFuture) , [site](https://x-r-g-b.github.io/html/creation_popup/fbttf.html)    | the best **RPG** ever made (in 1st year at EPITECH |
+
+</div>
 
 ------------------------------------------------------------------------------------
