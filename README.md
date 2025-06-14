@@ -1,13 +1,10 @@
-------------------------------------------------------------------------------------
-<h3 align='center'>
-  hayo
-</h3>
-
-------------------------------------------------------------------------------------
 
 <p align='center'>
   I do things because why not
 </p>
+
+<details align='center'>
+  <summary>Some stats</summary>
 
 <p align='center'>
   <a href="https://www.epitech.eu">
@@ -32,10 +29,12 @@
   </picture>
 </p>
 
+</details>
+
 ------------------------------------------------------------------------------------
-<h2 align='center'>
-  some projects
-</h2>
+
+<details align='center'>
+  <summary>Some projects</summary>
 
 <div align="center">
 
@@ -50,6 +49,8 @@
 |FlashBackToTheFuture   | c                         | [repo](https://github.com/X-R-G-B/FlashBackToTheFuture) , [site](https://x-r-g-b.github.io/html/creation_popup/fbttf.html)    | the best **RPG** ever made (in 1st year at EPITECH |
 
 </div>
+
+</details>
 
 ------------------------------------------------------------------------------------
 <details align='center'>
