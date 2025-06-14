@@ -39,16 +39,15 @@
 
 <div align="center">
 
-| Techno | Link | Description |
-|:---:|:---:|:---:|
-| bash, neovim, vim, linux  | [repo](https://github.com/Saverio976/dotfiles)                                                                                | personal **dotfiles** |
-| c                         | [repo](https://github.com/Saverio976/ScreenSaver)                                                                             | **annimation** using **pixels** (in 1st year at EPITECH |
-| c++                       | [repo](https://github.com/Saverio976/Raytracer) , [site](https://saverio976.github.io/Raytracer)                              | a Raytracer from scratch |
-| lua, neovim, mpv          | [repo](https://github.com/Saverio976/music.nvim)                                                                              | **music/video** in **neovim** (parser around `mpv`) |
-| python, regex             | [repo](https://github.com/Saverio976/NorMatrix) , [norma2](https://github.com/X-R-G-B/norma2)                                 | check the epitech **C coding style** |
-| python                    | [repo](https://github.com/Saverio976/Chat-App-TUI)                                                                            | **chat** with **people** in **terminal** |
-| python, pytorch           | [repo](https://github.com/Saverio976/bobot-inette)                                                                            | **launch** program **by voice** |
-| c                         | [repo](https://github.com/X-R-G-B/FlashBackToTheFuture) , [site](https://x-r-g-b.github.io/html/creation_popup/fbttf.html)    | the best **RPG** ever made (in 1st year at EPITECH |
+| Name | Techno | Link | Description |
+|:---:|:---:|:---:|:---:|
+|dotfiles               | bash, neovim, vim, linux  | [repo](https://github.com/Saverio976/dotfiles)                                                                                | personal **dotfiles** |
+|ScreenSaver            | c                         | [repo](https://github.com/Saverio976/ScreenSaver)                                                                             | **annimation** using **pixels** (in 1st year at EPITECH |
+|Raytracer              | c++                       | [repo](https://github.com/Saverio976/Raytracer) , [site](https://saverio976.github.io/Raytracer)                              | a Raytracer from scratch |
+|music.nvim             | lua, neovim, mpv          | [repo](https://github.com/Saverio976/music.nvim)                                                                              | **music/video** in **neovim** (parser around `mpv`) |
+|NorMatrix              | python, regex             | [repo](https://github.com/Saverio976/NorMatrix) , [norma2](https://github.com/X-R-G-B/norma2)                                 | check the epitech **C coding style** |
+|Chat-App-TUI           | python                    | [repo](https://github.com/Saverio976/Chat-App-TUI)                                                                            | **chat** with **people** in **terminal** |
+|FlashBackToTheFuture   | c                         | [repo](https://github.com/X-R-G-B/FlashBackToTheFuture) , [site](https://x-r-g-b.github.io/html/creation_popup/fbttf.html)    | the best **RPG** ever made (in 1st year at EPITECH |
 
 </div>
 
