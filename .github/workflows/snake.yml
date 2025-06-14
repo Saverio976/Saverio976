@@ -19,10 +19,11 @@ jobs:
           ref: ${{ github.head_ref }}
 
       - name: Generate
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
+            docs/github-snake.svg
             docs/github-snake-dark.svg?palette=github-dark
 
       - name: Push changes
@@ -30,6 +31,7 @@ jobs:
           git config --global user.name 'Github Actions'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git remote set-url origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
+          git add "docs/github-snake.svg"
           git add "docs/github-snake-dark.svg"
           git commit -am "Snake: automatic generate"
           git push
