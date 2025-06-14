@@ -25,7 +25,11 @@
 </p>
 
 <p align='center'>
-  <img src="https://saverio976.github.io/Saverio976/github-snake-dark.svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://saverio976.github.io/Saverio976/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://saverio976.github.io/Saverio976/github-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
+  </picture>
 </p>
 
 ------------------------------------------------------------------------------------
