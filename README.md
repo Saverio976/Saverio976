@@ -47,6 +47,7 @@
 |NorMatrix              | python, regex             | [repo](https://github.com/Saverio976/NorMatrix) , [norma2](https://github.com/X-R-G-B/norma2)                                 | check the epitech **C coding style** |
 |Chat-App-TUI           | python                    | [repo](https://github.com/Saverio976/Chat-App-TUI)                                                                            | **chat** with **people** in **terminal** |
 |FlashBackToTheFuture   | c                         | [repo](https://github.com/X-R-G-B/FlashBackToTheFuture) , [site](https://x-r-g-b.github.io/html/creation_popup/fbttf.html)    | the best **RPG** ever made (in 1st year at EPITECH |
+|telescope-cross-live-grep.nvim | lua, neovim       | [repo](https://github.com/Saverio976/telescope-cross-live-grep.nvim/)                                                         | cross platform telescope live_grep in neovim |
 
 </div>
 
