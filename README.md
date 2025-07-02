@@ -11,7 +11,7 @@
   <a href="https://www.hw.ac.uk/">
       <img src="https://saverio976.github.io/Saverio976/HERIOTWATT.svg">
   </a>
-  
+
   <a href="https://github.com/PoCInnovation">
       <img src="https://saverio976.github.io/Saverio976/POCINNOVATION.svg">
   </a>
