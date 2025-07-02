@@ -3,17 +3,22 @@
   I do things because why not
 </p>
 
-<details align='center' open>
-  <summary>Some stats</summary>
-
-<p align='center'>
+<div align="center">
   <a href="https://www.epitech.eu">
       <img src="https://saverio976.github.io/Saverio976/EPITECH.svg">
   </a>
+
+  <a href="https://www.hw.ac.uk/">
+      <img src="https://saverio976.github.io/Saverio976/HERIOTWATT.svg">
+  </a>
+  
   <a href="https://github.com/PoCInnovation">
       <img src="https://saverio976.github.io/Saverio976/POCINNOVATION.svg">
   </a>
-</p>
+</div>
+
+<details align='center' open>
+  <summary>Some stats</summary>
 
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=Saverio976&show_icons=true&count_private=true&theme=transparent&showicons=true" />
