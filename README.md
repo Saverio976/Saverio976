@@ -68,6 +68,7 @@
 | [github.com/vlang/v/pull/19224](https://github.com/vlang/v/pull/19224) |
 | [github.com/ansible-collections/community.general/pull/8037](https://github.com/ansible-collections/community.general/pull/8037) |
 | [github.com/BenjosBourge/Arcade-MarioKart](https://github.com/BenjosBourge/Arcade-MarioKart/pull/1) |
+| [github.com/YanMinChan/DataAnalysis_Tkinter](https://github.com/YanMinChan/DataAnalysis_Tkinter) |
 
 </div>
 
