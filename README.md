@@ -3,7 +3,7 @@
   I do things because why not
 </p>
 
-<details align='center'>
+<details align='center' open>
   <summary>Some stats</summary>
 
 <p align='center'>
