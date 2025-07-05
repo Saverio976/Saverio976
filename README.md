@@ -40,25 +40,54 @@
 
 </details>
 
+- Editor: neovim ([config repository](https://github.com/Saverio976/nvim))
+- DE: i3wm ([config folder](https://github.com/Saverio976/dotfiles/tree/main/.config/i3))
+- Terminal emulator: st ([config repository](https://github.com/Saverio976/st-flexipatch))
+- Shell: zsh ([config folder](https://github.com/Saverio976/dotfiles/tree/main/.config/zsh))
+
 ------------------------------------------------------------------------------------
 
-<details align='center'>
+<details align='center' open>
   <summary>Some projects</summary>
 
-<div align="center">
+  <div align="center">
+
+    <details align='center' open>
+      <summary>tier 1</summary>
 
 | Name | Techno | Link | Description |
 |:---:|:---:|:---:|:---:|
-|dotfiles               | bash, neovim, vim, linux  | [repo](https://github.com/Saverio976/dotfiles)                                                                                | personal **dotfiles** |
-|ScreenSaver            | c                         | [repo](https://github.com/Saverio976/ScreenSaver)                                                                             | **annimation** using **pixels** (in 1st year at EPITECH |
 |Raytracer              | c++                       | [repo](https://github.com/Saverio976/Raytracer) , [site](https://saverio976.github.io/Raytracer)                              | a Raytracer from scratch |
-|music.nvim             | lua, neovim, mpv          | [repo](https://github.com/Saverio976/music.nvim)                                                                              | **music/video** in **neovim** (parser around `mpv`) |
-|NorMatrix              | python, regex             | [repo](https://github.com/Saverio976/NorMatrix) , [norma2](https://github.com/X-R-G-B/norma2)                                 | check the epitech **C coding style** |
-|Chat-App-TUI           | python                    | [repo](https://github.com/Saverio976/Chat-App-TUI)                                                                            | **chat** with **people** in **terminal** |
-|FlashBackToTheFuture   | c                         | [repo](https://github.com/X-R-G-B/FlashBackToTheFuture) , [site](https://x-r-g-b.github.io/html/creation_popup/fbttf.html)    | the best **RPG** ever made (in 1st year at EPITECH |
-|telescope-cross-live-grep.nvim | lua, neovim       | [repo](https://github.com/Saverio976/telescope-cross-live-grep.nvim/)                                                         | cross platform telescope live_grep in neovim |
+|ScreenSaver            | c                         | [repo](https://github.com/Saverio976/ScreenSaver)                                                                             | **annimation** using **pixels** (in 1st year at EPITECH |
+|3DDiscovery            | blender, unreal engine, javascript | [repo](https://github.com/Saverio976/3DDiscovery), [site](https://saverio976.github.io/3DDiscovery/) (webgpu must be available) | Discovery of Blender, Unreal Engine and WebGPU |
+|pyfuncpatmatch         | python                    | [repo](https://github.com/Saverio976/pyfuncpatmatch)                                                                          | Pattern matching (like haskell) for python fonctions |
 
-</div>
+    </details>
+
+    <details align='center'>
+      <summary>tier 2</summary>
+
+| Name | Techno | Link | Description |
+|:---:|:---:|:---:|:---:|
+|telescope-cross-live-grep.nvim | lua, neovim       | [repo](https://github.com/Saverio976/telescope-cross-live-grep.nvim/)                                                         | cross platform telescope live_grep in neovim |
+|NorMatrix              | python, regex             | [repo](https://github.com/Saverio976/NorMatrix) , [norma2](https://github.com/X-R-G-B/norma2)                                 | check the epitech **C coding style** |
+|FlashBackToTheFuture   | c                         | [repo](https://github.com/X-R-G-B/FlashBackToTheFuture) , [site](https://x-r-g-b.github.io/html/creation_popup/fbttf.html)    | the best **RPG** ever made (/s) (in 1st year at EPITECH) |
+|vmake-vsh              | v                         | [repo](https://github.com/Saverio976/vmake-vsh)                                                                               | Simple build script in vlang/v |
+
+
+    </details>
+
+    <details align='center'>
+      <summary>tier 2</summary>
+
+| Name | Techno | Link | Description |
+|:---:|:---:|:---:|:---:|
+|music.nvim             | lua, neovim, mpv          | [repo](https://github.com/Saverio976/music.nvim)                                                                              | **music/video** in **neovim** (parser around `mpv`) |
+|Chat-App-TUI           | python                    | [repo](https://github.com/Saverio976/Chat-App-TUI)                                                                            | **chat** with **people** in **terminal** |
+
+    </details>
+
+  </div>
 
 </details>
 
