@@ -50,10 +50,10 @@
 <details align='center' open>
   <summary>Some projects</summary>
 
-<div align="center">
-
 <details align='center' open>
   <summary>tier 1</summary>
+
+<div align="center">
 
 | Name | Techno | Link | Description |
 |:---:|:---:|:---:|:---:|
@@ -62,10 +62,14 @@
 |3DDiscovery            | blender, unreal engine, javascript | [repo](https://github.com/Saverio976/3DDiscovery), [site](https://saverio976.github.io/3DDiscovery/) (webgpu must be available) | Discovery of Blender, Unreal Engine and WebGPU |
 |pyfuncpatmatch         | python                    | [repo](https://github.com/Saverio976/pyfuncpatmatch)                                                                          | Pattern matching (like haskell) for python fonctions |
 
+</div>
+
 </details>
 
 <details align='center'>
   <summary>tier 2</summary>
+
+<div align="center">
 
 | Name | Techno | Link | Description |
 |:---:|:---:|:---:|:---:|
@@ -74,20 +78,23 @@
 |FlashBackToTheFuture   | c                         | [repo](https://github.com/X-R-G-B/FlashBackToTheFuture) , [site](https://x-r-g-b.github.io/html/creation_popup/fbttf.html)    | the best **RPG** ever made (/s) (in 1st year at EPITECH) |
 |vmake-vsh              | v                         | [repo](https://github.com/Saverio976/vmake-vsh)                                                                               | Simple build script in vlang/v |
 
+</div>
 
 </details>
 
 <details align='center'>
   <summary>tier 2</summary>
 
+<div align="center">
+
 | Name | Techno | Link | Description |
 |:---:|:---:|:---:|:---:|
 |music.nvim             | lua, neovim, mpv          | [repo](https://github.com/Saverio976/music.nvim)                                                                              | **music/video** in **neovim** (parser around `mpv`) |
 |Chat-App-TUI           | python                    | [repo](https://github.com/Saverio976/Chat-App-TUI)                                                                            | **chat** with **people** in **terminal** |
 
-</details>
-
 </div>
+
+</details>
 
 </details>
 
