@@ -50,10 +50,10 @@
 <details align='center' open>
   <summary>Some projects</summary>
 
-  <div align="center">
+<div align="center">
 
-    <details align='center' open>
-      <summary>tier 1</summary>
+<details align='center' open>
+  <summary>tier 1</summary>
 
 | Name | Techno | Link | Description |
 |:---:|:---:|:---:|:---:|
@@ -62,10 +62,10 @@
 |3DDiscovery            | blender, unreal engine, javascript | [repo](https://github.com/Saverio976/3DDiscovery), [site](https://saverio976.github.io/3DDiscovery/) (webgpu must be available) | Discovery of Blender, Unreal Engine and WebGPU |
 |pyfuncpatmatch         | python                    | [repo](https://github.com/Saverio976/pyfuncpatmatch)                                                                          | Pattern matching (like haskell) for python fonctions |
 
-    </details>
+</details>
 
-    <details align='center'>
-      <summary>tier 2</summary>
+<details align='center'>
+  <summary>tier 2</summary>
 
 | Name | Techno | Link | Description |
 |:---:|:---:|:---:|:---:|
@@ -75,19 +75,19 @@
 |vmake-vsh              | v                         | [repo](https://github.com/Saverio976/vmake-vsh)                                                                               | Simple build script in vlang/v |
 
 
-    </details>
+</details>
 
-    <details align='center'>
-      <summary>tier 2</summary>
+<details align='center'>
+  <summary>tier 2</summary>
 
 | Name | Techno | Link | Description |
 |:---:|:---:|:---:|:---:|
 |music.nvim             | lua, neovim, mpv          | [repo](https://github.com/Saverio976/music.nvim)                                                                              | **music/video** in **neovim** (parser around `mpv`) |
 |Chat-App-TUI           | python                    | [repo](https://github.com/Saverio976/Chat-App-TUI)                                                                            | **chat** with **people** in **terminal** |
 
-    </details>
+</details>
 
-  </div>
+</div>
 
 </details>
 
