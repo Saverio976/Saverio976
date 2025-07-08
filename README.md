@@ -83,7 +83,7 @@
 </details>
 
 <details align='center'>
-  <summary>tier 2</summary>
+  <summary>tier 3</summary>
 
 <div align="center">
 
